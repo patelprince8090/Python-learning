@@ -1,0 +1,15 @@
+def sum(n1,n2):
+    return n1+n2
+
+g=2
+h=5
+print(sum(g,h))
+
+i=3
+j=6
+print(sum(i,j))
+
+a=8
+b=9
+print(sum(a,b))
+
