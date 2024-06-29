@@ -1,0 +1,9 @@
+a=["print","get","work","make","give"]
+b=[1,2,5,65,498,231,65]
+c=[1,6,"at",2.3]
+print(a)
+print(b)
+print(c)
+print(type(a))
+print(type(b))
+print(type(c))
