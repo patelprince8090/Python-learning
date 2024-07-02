@@ -1,11 +1,7 @@
-greeting = "GOOD MORNING, "
 name = "prince"
-print(greeting+name)
-
-greeting = "good afternoon, "
-name = "prince"
-print(greeting + name )
-
-greeting = "goog night, "
-name = "prince"
-print(greeting + name)
+print(name[5])
+print(name[4])
+print(name[3])
+print(name[2])
+print(name[1])
+print(name[0])
